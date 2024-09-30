@@ -21,7 +21,6 @@ Estou sempre em busca de novos desafios para expandir meu conhecimento e contrib
 ### 🌱 Atualmente aprendendo:
 - Mais sobre **AWS** e suas integrações com aplicativos web.
 - Melhorando minhas habilidades com **React** e **Angular**.
-- Práticas de desenvolvimento ágil e DevOps.
 
 ---
 
