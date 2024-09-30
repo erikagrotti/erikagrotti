@@ -10,7 +10,6 @@ Sou estagiária de **Desenvolvimento Web** na **CloudDog** e estudante de **Ciê
 - **Frontend**: React, Angular, Bootstrap, JavaScript, HTML, CSS
 - **Backend/Cloud**: AWS (Lambda, API Gateway, DynamoDB, Cognito, CodeCommit)
 - **Versionamento**: Git, GitHub, AWS CodeCommit
-- **Outras Ferramentas**: GitHub Actions, Postman
 
 ---
 
